@@ -1,0 +1,14 @@
+﻿  Table.cpp
+c:\users\morga\documents\visual studio 2015\projects\2course\tasks\task23\task23\table.cpp(24): warning C4018: >: несоответствие типов со знаком и без знака
+c:\users\morga\documents\visual studio 2015\projects\2course\tasks\task23\task23\table.cpp(49): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\morga\documents\visual studio 2015\projects\2course\tasks\task23\task23\table.cpp(52): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\morga\documents\visual studio 2015\projects\2course\tasks\task23\task23\table.cpp(84): warning C4018: >: несоответствие типов со знаком и без знака
+c:\users\morga\documents\visual studio 2015\projects\2course\tasks\task23\task23\table.cpp(228): warning C4018: >: несоответствие типов со знаком и без знака
+c:\users\morga\documents\visual studio 2015\projects\2course\tasks\task23\task23\table.cpp(251): warning C4018: >: несоответствие типов со знаком и без знака
+c:\users\morga\documents\visual studio 2015\projects\2course\tasks\task23\task23\table.cpp(455): warning C4018: >: несоответствие типов со знаком и без знака
+c:\users\morga\documents\visual studio 2015\projects\2course\tasks\task23\task23\table.cpp(472): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\morga\documents\visual studio 2015\projects\2course\tasks\task23\task23\table.cpp(480): warning C4018: >: несоответствие типов со знаком и без знака
+c:\users\morga\documents\visual studio 2015\projects\2course\tasks\task23\task23\table.cpp(487): warning C4018: >: несоответствие типов со знаком и без знака
+  Source.cpp
+  Создание кода...
+  task23.vcxproj -> C:\Users\morga\Documents\Visual Studio 2015\Projects\2course\tasks\task23\Debug\task23.exe
